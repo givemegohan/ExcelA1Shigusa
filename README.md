@@ -1,2 +1,14 @@
 # ExcelA1Shigusa
-Excel A1 Shigusa is the Japanese traditional manner, this manner is present sinse EDO period (1603-1868)
+Excel A1 Shigusa is the Japanese traditional manner, this manner is present sinse EDO period (1603-1868).
+
+# ExcelA1しぐさ
+江戸時代の商人は、お役所にExcelファイルを提出するときは必ず全てのシートのカーソルをA1に置いてから保存したものです。
+こうすることにより、お役所でExcelファイルを開いたときに、変な位置にカーソルがある状態から始まらず、役人が気持ちよくExcelファイルを扱うことができました。
+
+しかし近年、このExcelA1しぐさがあまりみられなくなり、多くのサラリーマンはとんでもないセルにカーソルを置いてExcelファイルを保存してしまっています。
+「ExcelA1しぐさ」は、失われたExcelA1しぐさを、PowerShellという現代の叡智により再現するものです。
+PS1ファイルに.xlsxファイルをドラッグ&ドロップするだけで、全てのシートのカーソル位置をA1に変更してくれるのです。
+
+# 免責事項
+もはや自宅のPCにExcelが入ってないので、まともな動作確認ができてません。
+重要なファイルはバックアップを取ってから試してください。
